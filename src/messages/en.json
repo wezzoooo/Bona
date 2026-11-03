@@ -1,0 +1,101 @@
+{
+  "Nav": {
+    "home": "Home",
+    "products": "Products",
+    "services": "Services",
+    "about": "About Us",
+    "quality": "Quality",
+    "sustainability": "Sustainability",
+    "markets": "Markets",
+    "contact": "Contact",
+    "requestQuote": "Request a Quote"
+  },
+  "Footer": {
+    "tagline": "Bridging Egyptian heritage with international corporate standards for premium global trade.",
+    "companyHeading": "Company",
+    "businessHeading": "Business",
+    "connectHeading": "Connect",
+    "copyright": "© {year} Bona Agricultural Export. All Rights Reserved."
+  },
+  "Common": {
+    "learnMore": "Learn More",
+    "viewProduct": "View Product",
+    "viewAll": "View All Products",
+    "readMore": "Read More",
+    "exploreProducts": "Explore Products",
+    "origin": "Origin",
+    "season": "Season",
+    "packaging": "Packaging"
+  },
+  "ContactForm": {
+    "heading": "Send an Inquiry",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "businessEmail": "Business Email",
+    "phoneNumber": "Phone Number",
+    "companyName": "Company Name",
+    "areaOfInterest": "Area of Interest",
+    "areaOfInterestPlaceholder": "Select an option",
+    "productOfInterest": "Product of Interest (Optional)",
+    "productOfInterestPlaceholder": "e.g. Egyptian Oranges",
+    "message": "Message",
+    "submit": "Submit Inquiry",
+    "submitting": "Sending...",
+    "toastSuccess": "Your inquiry has been sent successfully.",
+    "toastError": "Something went wrong. Please try again.",
+    "submitEmail": "Send via Email",
+    "submitWhatsapp": "Send via WhatsApp"
+  },
+  "ProductsPage": {
+    "searchPlaceholder": "Search products...",
+    "noResults": "No products found."
+  },
+  "ProductDetail": {
+    "specsHeading": "Product Specifications",
+    "origin": "Origin",
+    "varieties": "Varieties",
+    "harvestSeason": "Harvest Season",
+    "availability": "Availability",
+    "caliberSizes": "Caliber Sizes",
+    "certifications": "Certifications",
+    "packagingHeading": "Packaging Options",
+    "sidebarHeading": "Procure This Product",
+    "sidebarSubtext": "Secure your supply for the upcoming season with competitive CIF and FOB pricing.",
+    "exportDepartment": "Export Department"
+  },
+  "InquiryForm": {
+    "heading": "Request a Quote: {product}",
+    "subtext": "Provide your details below, and our export team will respond within 24 hours.",
+    "fullName": "Full Name",
+    "companyName": "Company Name",
+    "businessEmail": "Business Email",
+    "phone": "Phone / WhatsApp",
+    "destinationCountry": "Destination Country",
+    "selectCountry": "Select a country...",
+    "quantity": "Estimated Quantity (Tons)",
+    "packagingPreference": "Packaging Preference",
+    "noPreference": "No preference",
+    "additionalRequirements": "Additional Requirements (Optional)",
+    "submit": "Submit Inquiry",
+    "submitting": "Sending...",
+    "toastSuccess": "Your inquiry has been sent successfully.",
+    "toastError": "Something went wrong. Please try again."
+  },
+  "MarketsPage": {
+    "volume": "Volume",
+    "keyCrops": "Key Crops"
+  },
+  "ContactPage": {
+    "ourOffices": "Our Offices",
+    "whatsappInquiry": "WhatsApp Inquiry"
+  },
+  "NotFound": {
+    "title": "Page Not Found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "backHome": "Back to Home"
+  },
+  "WhatsAppFloat": {
+  "ariaLabel": "Chat with us on WhatsApp",
+  "greeting": "Hello, I'd like to know more about Bona's products and services."
+}
+}

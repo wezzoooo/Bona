@@ -1,0 +1,101 @@
+{
+  "Nav": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "services": "الخدمات",
+    "about": "من نحن",
+    "quality": "الجودة",
+    "sustainability": "الاستدامة",
+    "markets": "الأسواق",
+    "contact": "تواصل معنا",
+    "requestQuote": "اطلب عرض سعر"
+  },
+  "Footer": {
+    "tagline": "نربط التراث الزراعي المصري بمعايير الشركات العالمية للتجارة الدولية المتميزة.",
+    "companyHeading": "الشركة",
+    "businessHeading": "أعمالنا",
+    "connectHeading": "تواصل",
+    "copyright": "© {year} بونا للتصدير الزراعي. جميع الحقوق محفوظة."
+  },
+  "Common": {
+    "learnMore": "اعرف أكتر",
+    "viewProduct": "عرض المنتج",
+    "viewAll": "عرض كل المنتجات",
+    "readMore": "اقرأ المزيد",
+    "exploreProducts": "استكشف المنتجات",
+    "origin": "المنشأ",
+    "season": "الموسم",
+    "packaging": "التعبئة"
+  },
+  "ContactPage": {
+    "ourOffices": "مكاتبنا",
+    "whatsappInquiry": "استفسار عبر واتساب"
+  },
+  "ContactForm": {
+    "heading": "إرسال استفسار",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "businessEmail": "البريد الإلكتروني للشركة",
+    "phoneNumber": "رقم الهاتف",
+    "companyName": "اسم الشركة",
+    "areaOfInterest": "مجال الاهتمام",
+    "areaOfInterestPlaceholder": "اختر أحد الخيارات",
+    "productOfInterest": "المنتج المهتم به (اختياري)",
+    "productOfInterestPlaceholder": "مثال: البرتقال المصري",
+    "message": "الرسالة",
+    "submit": "إرسال الاستفسار",
+    "submitting": "جاري الإرسال...",
+    "toastSuccess": "تم إرسال استفسارك بنجاح.",
+    "toastError": "حدث خطأ ما. من فضلك حاول مرة أخرى.",
+    "submitEmail": "إرسال عبر الإيميل",
+    "submitWhatsapp": "إرسال عبر واتساب"
+  },
+  "ProductsPage": {
+    "searchPlaceholder": "ابحث في المنتجات...",
+    "noResults": "لا توجد منتجات مطابقة."
+  },
+  "ProductDetail": {
+    "specsHeading": "مواصفات المنتج",
+    "origin": "المنشأ",
+    "varieties": "الأصناف",
+    "harvestSeason": "موسم الحصاد",
+    "availability": "التوفر",
+    "caliberSizes": "أحجام العدّ",
+    "certifications": "الشهادات",
+    "packagingHeading": "خيارات التعبئة",
+    "sidebarHeading": "اطلب هذا المنتج",
+    "sidebarSubtext": "أمّن احتياجك للموسم القادم بأسعار تنافسية CIF وFOB.",
+    "exportDepartment": "قسم التصدير"
+  },
+  "InquiryForm": {
+    "heading": "اطلب عرض سعر: {product}",
+    "subtext": "أدخل بياناتك أدناه، وفريق التصدير هيرد عليك خلال 24 ساعة.",
+    "fullName": "الاسم الكامل",
+    "companyName": "اسم الشركة",
+    "businessEmail": "البريد الإلكتروني للشركة",
+    "phone": "الهاتف / واتساب",
+    "destinationCountry": "دولة الوجهة",
+    "selectCountry": "اختر دولة...",
+    "quantity": "الكمية المتوقعة (طن)",
+    "packagingPreference": "تفضيل التعبئة",
+    "noPreference": "لا يوجد تفضيل",
+    "additionalRequirements": "متطلبات إضافية (اختياري)",
+    "submit": "إرسال الاستفسار",
+    "submitting": "جاري الإرسال...",
+    "toastSuccess": "تم إرسال استفسارك بنجاح.",
+    "toastError": "حدث خطأ ما. من فضلك حاول مرة أخرى."
+  },
+  "MarketsPage": {
+    "volume": "الكمية",
+    "keyCrops": "أهم المحاصيل"
+  },
+  "NotFound": {
+    "title": "الصفحة غير موجودة",
+    "description": "الصفحة اللي بتدور عليها مش موجودة أو اتنقلت.",
+    "backHome": "الرجوع للرئيسية"
+  },
+  "WhatsAppFloat": {
+  "ariaLabel": "تواصل معنا عبر واتساب",
+  "greeting": "أهلاً، حابب أعرف أكتر عن منتجات وخدمات Bona."
+}
+}
